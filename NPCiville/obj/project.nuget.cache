@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h6/8v1vNLpNfA4LPCh5e6WB2D4DxmhjIk++gMrC6jZ4fVr0ILnQ3qy72qKR1Yt316G/mj+5x2TdDSsUP0zgBAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Heiner\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NPCiville\\NPCiville.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Heiner\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
